@@ -1,0 +1,3 @@
+current directory: /home/b1015136/rails_dev/webpacker_sample/vendor/bundle/ruby/2.6.0/gems/mimemagic-0.3.10/ext/mimemagic
+/home/b1015136/.rbenv/versions/2.6.2/bin/ruby -I/home/b1015136/.rbenv/versions/2.6.2/lib/ruby/site_ruby/2.6.0/rubygems -rrubygems /home/b1015136/rails_dev/webpacker_sample/vendor/bundle/ruby/2.6.0/gems/rake-13.0.3/exe/rake RUBYARCHDIR\=/home/b1015136/rails_dev/webpacker_sample/vendor/bundle/ruby/2.6.0/extensions/aarch64-linux/2.6.0/mimemagic-0.3.10 RUBYLIBDIR\=/home/b1015136/rails_dev/webpacker_sample/vendor/bundle/ruby/2.6.0/extensions/aarch64-linux/2.6.0/mimemagic-0.3.10
+mkdir -p /home/b1015136/rails_dev/webpacker_sample/vendor/bundle/ruby/2.6.0/extensions/aarch64-linux/2.6.0/mimemagic-0.3.10/mimemagic
